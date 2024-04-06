@@ -6,7 +6,7 @@
     <RootNamespace>_100Codes</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>_100Codes.NumberPN</StartupObject>
+    <StartupObject>_100Codes.GretestNumber</StartupObject>
   </PropertyGroup>
 
 </Project>
