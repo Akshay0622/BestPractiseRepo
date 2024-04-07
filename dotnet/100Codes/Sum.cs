@@ -1,17 +1,16 @@
-  namespace _100Codes
+namespace _100Codes
 {
-    internal class Sum
+  internal class Sum
+  {
+    static void Main(string[] args)
     {
+      int n = 10;
 
-  static void Main(string[] args)
-        {
-        int n = 10;
+      int sum = 0;
 
-        int sum = 0;
-
-     for (int i = 1; i <= n; i++)
-          sum += i;
+      for (int i = 1; i <= n; i++)
+        sum += i;
       Console.WriteLine(sum);
-   }
- }
+    }
+  }
 }
