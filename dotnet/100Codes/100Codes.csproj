@@ -6,7 +6,7 @@
     <RootNamespace>_100Codes</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>_100Codes.PrimeNumber</StartupObject>
+    <StartupObject>_100Codes.HCF</StartupObject>
   </PropertyGroup>
 
 </Project>
